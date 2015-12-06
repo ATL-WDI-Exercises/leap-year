@@ -92,3 +92,7 @@ Monkeypatch `Fixnum` to provide a `leap_year?` method:
 ## Notes
 
 For a delightful, four minute explanation of the whole leap year phenomenon, go watch [What is a Leap Year?](http://www.youtube.com/watch?v=xX96xng7sAE) (later!).
+
+## Metadata
+
+TAGS=[javascript, ruby, control-flow]
