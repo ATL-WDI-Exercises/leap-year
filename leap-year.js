@@ -1,6 +1,5 @@
 function isLeapYear(year) {
-  // TODO: return true if year is a leap year; false otherwise
-  return null;
+  return ((year % 4 === 0) && (year % 100 !== 0)) || (year % 400 === 0);
 };
 
 console.log('1995', isLeapYear(1995));
