@@ -48,7 +48,7 @@ npm install -g jscs
 Your program should be called as follows:
 
 ```ruby
-puts "Leap Year for 1996: #{leap?(1996)}"
+puts "Leap Year for 1996: #{leap_year?(1996)}"
 ```
 
 ### Checking Your Work
