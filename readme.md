@@ -43,15 +43,6 @@ npm install -g jasmine-node
 npm install -g jscs
 ```
 
-### Ruby Bonus
-
-Monkeypatch `Number` to provide a `leapYear` method:
-
-```ruby
-Number.leapYear(2000);
-```
-
-
 ## For Ruby
 
 Your program should be called as follows:
